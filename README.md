@@ -7,8 +7,6 @@ This is a document prepared during the middle of the night fishing time. It may 
 
 ![预览](https://github.com/QiNuoTu/RWKV-body2D-PaperdollParts/assets/76236817/7e18e002-7d19-4a65-a7b2-48e98ec684ec)
 
-![image](https://github.com/QiNuoTu/RWKV-body2D-PaperdollParts/assets/76236817/f32c79ff-d45f-4388-8edd-1854ef1c6bf8)
-
 往后会增加其他可爱的画风版本，本人比较擅长萝莉体型，在绘制现在这个时确实不太喜欢导致大姐姐画的不可爱对不起呜呜呜。
 
 In the future, other cute art styles will be added. I am good at Loli's body shape, and I really don't like the current situation, which leads to the cuteness of my older sister's paintings. I'm sorry for that.
@@ -26,3 +24,5 @@ https://github.com/neromous/RWKV-Ouroboros
 自己引流
 
 https://github.com/QiNuoTu/Polygon-Detection-2D
+
+![image](https://github.com/QiNuoTu/RWKV-body2D-PaperdollParts/assets/76236817/f32c79ff-d45f-4388-8edd-1854ef1c6bf8)
